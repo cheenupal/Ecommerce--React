@@ -1,7 +1,6 @@
 ## Demo
-In the project directory, you can run:
-
-https://e-commercee-ibsg.onrender.com
+In the project directory, you can run
+https://ecommerce-react-fawn.vercel.app/
 
 # Getting Started with Create React App
 
